@@ -7,3 +7,4 @@ un blog increible para el curso de Git y GitHub(https://platzi.com/clases/1557-g
 ##En este curso vemos  de todo de Git y GitHub
 *Creado por el increible platzi team
 *incluye ejemplos en win,linux y mac
+*Disponible para todas las edades
